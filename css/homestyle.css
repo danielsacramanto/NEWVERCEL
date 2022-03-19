@@ -1,0 +1,39 @@
+.navbar-nav{
+  padding-top: 0.5em;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.cardtitle {
+    color: #212529;
+    text-decoration: none;
+}
+
+.navback {
+    background-color: #e8e8e8 !important;
+}
+
+.bg-light {
+    background-color: #e8e8e8 !important;
+}
+
+.sitelogo {
+    font-size: 70px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.footer {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    background: lavender;
+    margin-top: 50px;
+}
+
+.container-lg {
+margin-bottom: 20px;
+padding-left: 0px;
+}
+
